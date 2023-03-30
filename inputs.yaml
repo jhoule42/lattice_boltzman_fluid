@@ -1,0 +1,13 @@
+Nx: 1000
+Ny: 300
+Nt: 20000
+NL: 9
+flow_speed: 1.5
+flow_direct: 3
+tau: 0.6
+scen: "2DQ9"
+path_array: "arr"
+path_to_save: "Anim"
+path_to_exec: "executions"
+exec_name: 'von_karman_low_speed'
+save_exec: True # save the execution parameters
